@@ -39,6 +39,9 @@ The main objectives of this project are:
    - **Relational Model**: A star schema was implemented in Power BI, with fact tables containing quantitative HR metrics and dimension tables storing descriptive attributes like employee demographics, department information, and job roles.
    - **Custom Calculations**: DAX was used to create custom measures for in-depth analysis, such as average performance ratings, turnover rates, and cost-per-hire metrics.
 
+![Dashboard](https://github.com/user-attachments/assets/6a7a05db-5670-41b2-a255-73a32b632705)
+
+
 ### Metrics Analyzed
 
 1. **Employee Performance**
