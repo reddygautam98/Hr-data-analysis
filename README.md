@@ -40,7 +40,11 @@ The main objectives of this project are:
    - **Custom Calculations**: DAX was used to create custom measures for in-depth analysis, such as average performance ratings, turnover rates, and cost-per-hire metrics.
 
 ![Dashboard](https://github.com/user-attachments/assets/6a7a05db-5670-41b2-a255-73a32b632705)
-
+![Screenshot 2024-10-13 194655](https://github.com/user-attachments/assets/51bffe00-deed-4391-8083-d56d0a82fa3c)
+![Screenshot 2024-10-13 194731](https://github.com/user-attachments/assets/53074057-440a-49a9-9545-c30d5896d216)
+![Screenshot 2024-10-13 194722](https://github.com/user-attachments/assets/8e0b7cee-c7d2-4431-afa3-3e5df56899b8)
+![Screenshot 2024-10-13 194711](https://github.com/user-attachments/assets/c9650149-9424-4dcf-9d9f-b39a9722ebc0)
+![Screenshot 2024-10-13 194704](https://github.com/user-attachments/assets/ddf9d02f-1d11-44eb-ba69-ea1b2ad7d245)
 
 ### Metrics Analyzed
 
